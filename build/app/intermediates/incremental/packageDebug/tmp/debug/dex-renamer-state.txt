@@ -1,0 +1,4 @@
+#Sat May 13 20:24:24 SGT 2023
+base.0=C\:\\tes2\\app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
